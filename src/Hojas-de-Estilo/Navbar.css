@@ -1,0 +1,17 @@
+nav{
+
+    display: flex;
+    padding: 5px;
+}
+
+.active{
+
+    background-color: black;
+    color: white;
+}
+
+nav a{
+
+    text-decoration: none;
+    padding: 5px 15px;
+}
